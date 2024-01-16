@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Brian</h1>
+
+![ugomoji_1705381844297](https://github.com/Brian-Wang0926/Brian-Wang0926/assets/71397277/757897cf-f7fb-4763-8f9f-bbfecc5a287e)
+
 <h3 align="center">From automating tedious tasks to enhancing programming skills, I was inspired to transition into a backend engineer.</h3>
+
 
 - 📄 Know about my experiences [https://reurl.cc/4jollX](https://reurl.cc/4jollX)
 
