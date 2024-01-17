@@ -5,6 +5,7 @@
 
 
 - 📄 Know about my experiences [https://reurl.cc/4jollX](https://reurl.cc/4jollX)
+- 📧 Email [aa0988402763@gmail.com](mailto:aa0988402763@gmail.com)
 
 <p align="left">
 </p>
